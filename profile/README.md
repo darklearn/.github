@@ -1,5 +1,5 @@
 <div align="center">
-    <h1><a href="https://darklearn.net/" target="_blanck">Welcome To Dark Learn</a></h1>
+    <h1><a href="https://darklearn.net/" target="_blanck">Hello, we are a team (:</a></h1>
     <image src="https://readme-typing-svg.herokuapp.com?font=SFMono-Regular&color=1E69DE&size=16&center=true&width=510&height=45&lines=$_+Open+source+lovers+and+open+source+developers">
 </div>
 
